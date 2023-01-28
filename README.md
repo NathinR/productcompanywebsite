@@ -721,7 +721,7 @@ contact.html
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![output](homen.jpg)
 
 ## Result:
 
