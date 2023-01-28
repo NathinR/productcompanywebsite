@@ -714,14 +714,36 @@ contact.html
         </div>
     </body>
 </html>
-
+```
 
 
 ## OUTPUT:
 
 ### Home Page:
 
-![output](homen.jpg)
+![output](homen.png)
+
+### Contact Page:
+
+![output](contactn.png)
+
+###Product Page:
+
+![output](p1.png)
+
+![output](p2.png)
+
+![output](p3.png)
+
+###People Page:
+
+![output](pro1.png)
+
+![output](pro2.png)
+
+![output](pro3.png)
+
+
 
 ## Result:
 
