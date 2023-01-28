@@ -727,7 +727,7 @@ contact.html
 
 ![output](contactn.png)
 
-###Product Page:
+###People Page:
 
 ![output](p1.png)
 
@@ -735,7 +735,7 @@ contact.html
 
 ![output](p3.png)
 
-###People Page:
+###Product Page:
 
 ![output](pro1.png)
 
